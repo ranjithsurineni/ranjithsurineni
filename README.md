@@ -1,4 +1,4 @@
-### Hi there 👋 fellow <developers/>!
+### Hi there 👋 fellow <<developers/>>!
 
 <!--
 **ranjithsurineni/ranjithsurineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ You have finally discovered my Github profile.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:[![GMail()mailto:ranjithranji1903@gmail.com]]
+- 📫 How to reach me ...
 
   
 
